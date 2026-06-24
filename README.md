@@ -51,3 +51,57 @@ This project analyzes Uber operational data using SQL and Power BI to uncover bo
 • Booking Distribution by Vehicle Type
 
 • Revenue Contribution by Vehicle Type
+
+# Tools Used #
+
+### SQL ###
+
+• Data Cleaning
+
+• Aggregations
+
+• KPI Calculations
+
+• Trend Analysis
+
+### Power BI ###
+
+• Data Modeling
+
+• DAX Measures
+
+• Interactive Dashboards
+
+• KPI Visualizations
+
+# Key Insights #
+
+### Revenue Performance ###
+
+• Generated insights into booking volume and revenue trends across different periods.
+
+ ### Operational Efficiency ###
+
+• Identified trip duration and distance patterns to evaluate operational efficiency.
+
+### Location Analysis ###
+
+• Determined the most active pickup and drop-off locations.
+
+### Vehicle Performance ###
+
+• Compared booking volumes and revenue contribution across vehicle categories
+
+# Business Impact #
+
+The dashboard enables stakeholders to:
+
+• Monitor operational performance
+
+• Track revenue trends
+
+• Optimize vehicle allocation
+
+• Improve customer experience
+
+• Support strategic business decisions
