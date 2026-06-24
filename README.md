@@ -1,10 +1,10 @@
-#Overview#
+# Overview #
 
 This project analyzes Uber operational data using SQL and Power BI to uncover booking trends, customer demand patterns, operational efficiency, and revenue performance. The objective is to provide actionable insights that support business decision-making and improve operational effectiveness.
 
 ---
 
-#Business Objectives#
+# Business Objectives #
 
 • Analyze booking demand trends
 
@@ -18,9 +18,9 @@ This project analyzes Uber operational data using SQL and Power BI to uncover bo
 
 ---
 
-#KPIs#
+# KPIs #
 
-##Booking Metrics##
+### Booking Metrics ###
 
 • Total Bookings
 
@@ -28,7 +28,7 @@ This project analyzes Uber operational data using SQL and Power BI to uncover bo
 
 • Total Booking Value
 
-##Operational Metrics##
+### Operational Metrics ###
 
 • Average Trip Distance
 
@@ -36,7 +36,7 @@ This project analyzes Uber operational data using SQL and Power BI to uncover bo
 
 • Total Trip Distance
 
-##Location Metrics##
+### Location Metrics ###
 
 • Most Frequent Pickup Location
 
@@ -44,7 +44,7 @@ This project analyzes Uber operational data using SQL and Power BI to uncover bo
 
 • Highest Performing Locations
 
-##Vehicle Metrics##
+### Vehicle Metrics ###
 
 • Vehicle Utilization
 
